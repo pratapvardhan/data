@@ -1,37 +1,38 @@
-state_name,state_2code,regions
-Andhra Pradesh,AP,South
-Arunachal Pradesh,AR,Northeast
-Assam,AS,Northeast
-Bihar,BR,East
-Chhattisgarh,CT,Central
-Goa,GA,Western
-Gujarat,GJ,Western
-Haryana,HR,North
-Himachal Pradesh,HP,North
-Jharkhand,JH,East
-Karnataka,KA,South
-Kerala,KL,South
-Madhya Pradesh,MP,Central
-Maharashtra,MH,Western
-Manipur,MN,Northeast
-Meghalaya,ML,Northeast
-Mizoram,MZ,Northeast
-Nagaland,NL,Northeast
-Orissa,OR,East
-Punjab,PB,North
-Rajasthan,RJ,North
-Sikkim,SK,Northeast
-Tamil Nadu,TN,South
-Telangana,TG,South
-Tripura,TR,Northeast
-Uttarakhand,UT,North
-Uttar Pradesh,UP,North
-West Bengal,WB,East
-Andaman and Nicobar Islands,AN,South
-Chandigarh,CH,North
-Dadra and Nagar Haveli and Daman and Diu,DH,Western
-Delhi,DL,North
-Jammu and Kashmir,JK,North
-Ladakh,LA,North
-Lakshadweep,LD,South
-Puducherry,PY,South
+state_name,state_2code,regions,census2011_state_name,census2011_state_code,state_code
+Andhra Pradesh,AP,South,Andhra Pradesh,28,28
+Arunachal Pradesh,AR,Northeast,Arunachal Pradesh,12,12
+Assam,AS,Northeast,Assam,18,18
+Bihar,BR,East,Bihar,10,10
+Chhattisgarh,CT,Central,Chhattisgarh,22,22
+Goa,GA,Western,Goa,30,30
+Gujarat,GJ,Western,Gujarat,24,24
+Haryana,HR,North,Haryana,6,6
+Himachal Pradesh,HP,North,Himachal Pradesh,2,2
+Jharkhand,JH,East,Jharkhand,20,20
+Karnataka,KA,South,Karnataka,29,29
+Kerala,KL,South,Kerala,32,32
+Madhya Pradesh,MP,Central,Madhya Pradesh,23,23
+Maharashtra,MH,Western,Maharastra,27,27
+Manipur,MN,Northeast,Manipur,14,14
+Meghalaya,ML,Northeast,Meghalaya,17,17
+Mizoram,MZ,Northeast,Mizoram,15,15
+Nagaland,NL,Northeast,Nagaland,13,13
+Orissa,OR,East,Odisha,21,21
+Punjab,PB,North,Punjab,3,3
+Rajasthan,RJ,North,Rajasthan,8,8
+Sikkim,SK,Northeast,Sikkim,11,11
+Tamil Nadu,TN,South,Tamil Nadu,33,33
+Telangana,TG,South,,,36
+Tripura,TR,Northeast,Tripura,16,16
+Uttarakhand,UT,North,Uttaranchal,5,5
+Uttar Pradesh,UP,North,Uttar Pradesh,9,9
+West Bengal,WB,East,West Bengal,19,19
+Andaman and Nicobar Islands,AN,South,Andaman & Nicobar Islands,35,35
+Chandigarh,CH,North,Chandigarh,4,4
+Dadra and Nagar Haveli and Daman and Diu,DH,Western,Dadra & Nagar Haveli,26,26
+Delhi,DL,North,Delhi,7,7
+Jammu and Kashmir,JK,North,Jammu and Kashmir,1,1
+Ladakh,LA,North,,,37
+Lakshadweep,LD,South,Lakshadweep,31,31
+Puducherry,PY,South,Puducherry,34,34
+,,,Daman & Diu,25,
