@@ -1,38 +1,38 @@
-state_name,state_2code,regions,census2011_state_name,census2011_state_code,state_code
-Andhra Pradesh,AP,South,Andhra Pradesh,28,28
-Arunachal Pradesh,AR,Northeast,Arunachal Pradesh,12,12
-Assam,AS,Northeast,Assam,18,18
-Bihar,BR,East,Bihar,10,10
-Chhattisgarh,CT,Central,Chhattisgarh,22,22
-Goa,GA,Western,Goa,30,30
-Gujarat,GJ,Western,Gujarat,24,24
-Haryana,HR,North,Haryana,6,6
-Himachal Pradesh,HP,North,Himachal Pradesh,2,2
-Jharkhand,JH,East,Jharkhand,20,20
-Karnataka,KA,South,Karnataka,29,29
-Kerala,KL,South,Kerala,32,32
-Madhya Pradesh,MP,Central,Madhya Pradesh,23,23
-Maharashtra,MH,Western,Maharastra,27,27
-Manipur,MN,Northeast,Manipur,14,14
-Meghalaya,ML,Northeast,Meghalaya,17,17
-Mizoram,MZ,Northeast,Mizoram,15,15
-Nagaland,NL,Northeast,Nagaland,13,13
-Odisha,OR,East,Odisha,21,21
-Punjab,PB,North,Punjab,3,3
-Rajasthan,RJ,North,Rajasthan,8,8
-Sikkim,SK,Northeast,Sikkim,11,11
-Tamil Nadu,TN,South,Tamil Nadu,33,33
-Telangana,TG,South,,,36
-Tripura,TR,Northeast,Tripura,16,16
-Uttarakhand,UT,North,Uttaranchal,5,5
-Uttar Pradesh,UP,North,Uttar Pradesh,9,9
-West Bengal,WB,East,West Bengal,19,19
-Andaman and Nicobar Islands,AN,South,Andaman & Nicobar Islands,35,35
-Chandigarh,CH,North,Chandigarh,4,4
-Dadra and Nagar Haveli and Daman and Diu,DH,Western,Dadra & Nagar Haveli,26,26
-Delhi,DL,North,Delhi,7,7
-Jammu and Kashmir,JK,North,Jammu and Kashmir,1,1
-Ladakh,LA,North,,,37
-Lakshadweep,LD,South,Lakshadweep,31,31
-Puducherry,PY,South,Puducherry,34,34
-,,,Daman & Diu,25,
+state_name,state_2code,regions,census2011_state_name,census2011_state_code,state_code,population_2020
+Andaman and Nicobar Islands,AN,South,Andaman & Nicobar Islands,35,35,417036
+Andhra Pradesh,AP,South,Andhra Pradesh,28,28,53903393
+Arunachal Pradesh,AR,Northeast,Arunachal Pradesh,12,12,1570458
+Assam,AS,Northeast,Assam,18,18,35607039
+Bihar,BR,East,Bihar,10,10,124799926
+Chandigarh,CH,North,Chandigarh,4,4,1158473
+Chhattisgarh,CT,Central,Chhattisgarh,22,22,29436231
+Dadra and Nagar Haveli and Daman and Diu,DH,Western,Dadra & Nagar Haveli,26,26,615724
+Delhi,DL,North,Delhi,7,7,18710922
+Goa,GA,Western,Goa,30,30,1586250
+Gujarat,GJ,Western,Gujarat,24,24,63872399
+Haryana,HR,North,Haryana,6,6,28204692
+Himachal Pradesh,HP,North,Himachal Pradesh,2,2,7451955
+Jammu and Kashmir,JK,North,Jammu and Kashmir,1,1,13606320
+Jharkhand,JH,East,Jharkhand,20,20,38593948
+Karnataka,KA,South,Karnataka,29,29,67562686
+Kerala,KL,South,Kerala,32,32,35699443
+Ladakh,LA,North,,,37,289023
+Lakshadweep,LD,South,Lakshadweep,31,31,73183
+Madhya Pradesh,MP,Central,Madhya Pradesh,23,23,85358965
+Maharashtra,MH,Western,Maharastra,27,27,123144223
+Manipur,MN,Northeast,Manipur,14,14,3091545
+Meghalaya,ML,Northeast,Meghalaya,17,17,3366710
+Mizoram,MZ,Northeast,Mizoram,15,15,1239244
+Nagaland,NL,Northeast,Nagaland,13,13,2249695
+Odisha,OR,East,Odisha,21,21,46356334
+Puducherry,PY,South,Puducherry,34,34,1413542
+Punjab,PB,North,Punjab,3,3,30141373
+Rajasthan,RJ,North,Rajasthan,8,8,81032689
+Sikkim,SK,Northeast,Sikkim,11,11,690251
+Tamil Nadu,TN,South,Tamil Nadu,33,33,77841267
+Telangana,TG,South,,,36,38510982
+Tripura,TR,Northeast,Tripura,16,16,4169794
+Uttar Pradesh,UP,North,Uttar Pradesh,9,9,237882725
+Uttarakhand,UT,North,Uttaranchal,5,5,11250858
+West Bengal,WB,East,West Bengal,19,19,99609303
+,,,Daman & Diu,25,,
