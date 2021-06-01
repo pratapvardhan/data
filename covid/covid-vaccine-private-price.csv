@@ -1,0 +1,450 @@
+name,address,state_name,district_name,vaccine_fees,Vaccine,Price
+East West Medical Center,38 Archbishop Makarios Marg Golf Links New Delhi Delhi 110003,Delhi,South East Delhi,"[{'vaccine': 'COVISHIELD', 'fee': '1800'}]",COVISHIELD,1800
+Care Max Hospital,333 Lajpat Nagar,Punjab,Jalandhar,"[{'vaccine': 'COVAXIN', 'fee': '1500'}]",COVAXIN,1500
+Maatulya Womens Hospital,Maatulya Womens Hospital Kudasan,Gujarat,Gandhinagar Corporation,"[{'vaccine': 'COVAXIN', 'fee': '1500'}]",COVAXIN,1500
+Medicover Hospital-RC Puram,RC Puram,Telangana,Sangareddy,"[{'vaccine': 'COVAXIN', 'fee': '1500'}]",COVAXIN,1500
+Mool Chand Site 1,Lala Lajpat Rai Marg Near Moolchand Metro Station Block M Lajpat Nagar III Lajpat Nagar New Delhi Delhi,Delhi,South East Delhi,"[{'vaccine': 'COVAXIN', 'fee': '1450'}]",COVAXIN,1450
+Moolchand Medcity Pvt Ltd Agra,ArtoniMathura RoadNH 2Agra,Uttar Pradesh,Agra,"[{'vaccine': 'COVAXIN', 'fee': '1450'}]",COVAXIN,1450
+RxDx Samanvay Covaxin,NO 29 11th Main Rd Malleshwaram Bengaluru Karnataka,Karnataka,BBMP,"[{'vaccine': 'COVAXIN', 'fee': '1450'}]",COVAXIN,1450
+Aakash Drive,Vegas Mall Plot No-6North Pocket 1 Dwarka Sector-14 Delhi-110075,Delhi,South West Delhi,"[{'vaccine': 'COVISHIELD', 'fee': '1400'}]",COVISHIELD,1400
+Shree Aum Hospital,NH-44 BARI BRAHMNA,Jammu and Kashmir,Samba,"[{'vaccine': 'COVAXIN', 'fee': '1400'}]",COVAXIN,1400
+Medicover Hospitals,Zaheerabad,Telangana,Sangareddy,"[{'vaccine': 'COVAXIN', 'fee': '1400'}]",COVAXIN,1400
+Cadabams Hospital- COWAXIN,No.280 15th Cross 5th Phase KR Layout Prasanti Nagar JP Nagar Bangalore - 560078,Karnataka,BBMP,"[{'vaccine': 'COVAXIN', 'fee': '1400'}]",COVAXIN,1400
+Manipal Covaxin,Omalur,Tamil Nadu,Salem,"[{'vaccine': 'COVAXIN', 'fee': '1350'}]",COVAXIN,1350
+MANIPAL NORTHSIDE CANARA UNIO,42 BETWEEN 13TH AND 15TH CROSS 8TH MAIN MALLESWARAM,Karnataka,BBMP,"[{'vaccine': 'COVAXIN', 'fee': '1350'}]",COVAXIN,1350
+AASHAKIRAN FERTILITY WORLD,Sec 127 Gilco Valley Kharar Mohali,Punjab,SAS Nagar,"[{'vaccine': 'COVAXIN', 'fee': '1350'}]",COVAXIN,1350
+Jaslok Hosp- Villa Theresa Sch,Vaccination Centre At Villa Theresa School 66 Dr. G. Deshmukh Marg Peddar Road Mumbai,Maharashtra,Mumbai,"[{'vaccine': 'COVISHIELD', 'fee': '900'}, {'vaccine': 'COVAXIN', 'fee': '1300'}]",Both,1300
+AMANDEP-KAMAL HOPSITAL,SHRI CHANDER COLONY AMRITSAR ROAD TARN TARAN,Punjab,Tarn Taran,"[{'vaccine': 'COVAXIN', 'fee': '1299'}]",COVAXIN,1299
+Amandeep Medicity Hospital Asr,Mall Road,Punjab,Amritsar,"[{'vaccine': 'COVAXIN', 'fee': '1299'}]",COVAXIN,1299
+Amandeep Hospital Pathankot,Gharota,Punjab,Pathankot,"[{'vaccine': 'COVAXIN', 'fee': '1299'}]",COVAXIN,1299
+DELHI HEART LUNG INS. SITE 1,3 MM II PANCHKUIAN ROAD NEW DELHI 110005,Delhi,Central Delhi,"[{'vaccine': 'COVAXIN', 'fee': '1260'}]",COVAXIN,1260
+UNIVERSAL CENTER OF HEALTH SCI,UNIVERSAL HOSPITAL BYE PASS ROAD BADARPURMOLARBAND EXTN,Delhi,South East Delhi,"[{'vaccine': 'COVAXIN', 'fee': '1260'}]",COVAXIN,1260
+YATHARTH SUPERSPECIALITY,PLOT NO 1 GEJHA ROAD LOTUS PANACHE SECTOR 110 NOIDA,Uttar Pradesh,Gautam Buddha Nagar,"[{'vaccine': 'COVAXIN', 'fee': '1260'}]",COVAXIN,1260
+Regency Hospital,Plot No.356 Khurramnagar Ring Road Lucknow,Uttar Pradesh,Lucknow,"[{'vaccine': 'COVAXIN', 'fee': '1260'}]",COVAXIN,1260
+PCVC REGENCY HOSPITAL PARADE,PPN MARKET PARADE,Uttar Pradesh,Kanpur Nagar,"[{'vaccine': 'COVAXIN', 'fee': '1260'}]",COVAXIN,1260
+YATHARTH SUPERSPECIALITY EXT,SECTOR 1 NOIDA EXTENSION,Uttar Pradesh,Gautam Buddha Nagar,"[{'vaccine': 'COVAXIN', 'fee': '1260'}]",COVAXIN,1260
+NOBLE HOSPITAL HADAPSAR,153 MAGARPATTACITY ROAD HADAPSAR PUNE 411013,Maharashtra,Pune,"[{'vaccine': 'COVAXIN', 'fee': '1260'}]",COVAXIN,1260
+DELHI HEART LUNG INS. SITE 2,3 MM II PANCHKUIAN ROAD NEW DELHI 110005,Delhi,Central Delhi,"[{'vaccine': 'COVAXIN', 'fee': '1260'}]",COVAXIN,1260
+APOLLO RAHSHREE HOSPITALS,Scheme No 74C Sector D Vijay Nagar Indore,Madhya Pradesh,Indore,"[{'vaccine': 'COVISHIELD', 'fee': '850'}, {'vaccine': 'COVAXIN', 'fee': '1250'}]",Both,1250
+Vishwaprabha Hospital Jalgaon,Akashwani Chowk NH 06 Jalgaon,Maharashtra,Jalgaon,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+H N Reliance Hosp MUMBAI 1,Raja Rammohan Roy Road Prarthana Samaj Girgaon,Maharashtra,Mumbai,"[{'vaccine': 'COVAXIN', 'fee': '1250'}, {'vaccine': 'COVISHIELD', 'fee': '700'}]",Both,1250
+Apollo Clinic KONDHWA,Amba Vatica Slot No B1 Survey No 16A Wanowrie Khondawa Khurd,Maharashtra,Pune,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+FORTIS HOSPITAL-1- Mulund,MULUND GOREGAON LINK ROAD MULUND,Maharashtra,Mumbai,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Apollo Clinic Colaba,Apolo Clinic Ground Floor Eucharistic Congress Building No 1 Convent Street Apolo Bunder Colaba Mumbai,Maharashtra,Mumbai,"[{'vaccine': 'COVISHIELD', 'fee': '850'}, {'vaccine': 'COVAXIN', 'fee': '1250'}]",Both,1250
+Global Hospital (Parel),35 Dr. Ernest Borges Road Opposite Shirodkar High School Parel Mumbai Maharashtra,Maharashtra,Mumbai,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+K. G. MITTAL HOS. Charni Road,NETAJI SUBHASH ROAD CHARNI ROAD MUMBAI,Maharashtra,Mumbai,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+APOLLO HOSPITAL SANAS GROUND,Sadashiv Peth Saras Baug Opp Sanas Sports Ground Pune,Maharashtra,Pune,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+APOLLO HOSPITALS BBSR CVC,PLOT NO 251 SAINIK SCHOOL ROAD BHUBANESWAR,Odisha,Khurda,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+RJN Apollo Spectra Hospital,18- Vikas Nagar Near Sai Baba Mandir Gwalior,Madhya Pradesh,Gwalior,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+APOLO CLINIC,Shop 14 20 City Pride Building Below Kotak Mahindra Bank Next To Sant Dyaneshwar Chowk Nigdi Pune Maharashtra 411044,Maharashtra,Pune,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Saveera Institute Of Medical,Anantapur,Andhra Pradesh,Anantapur,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Kasturba Hospital Manipal 3 C,Marina Sports Complex KMC Campus Manipal,Karnataka,Udupi,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+M S RAMAIAH MEDICAL COLLEGE-C1,M S R NAGAR MSRIT POST MATHIKERE,Karnataka,BBMP,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+RxDx Bellandur P3,8A Groubd FloorThe Bay RMZ ECO World Marathahalli-Sarjapura Out Ring Rd Adarsh Plam RetreatBellandur,Karnataka,BBMP,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+FORTIS INTERNATIONAL HOSPITAL,111 -112 WEST OF CHORD ROAD FIRST BLOCK RAJAJINAGAR BANGALORE,Karnataka,BBMP,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Fortis Hospital BG ROAD P3,154 9 Bannerghatta Main Rd Opposite IIM Sahyadri Layout Panduranga Nagar Bengaluru Karnataka,Karnataka,BBMP,"[{'vaccine': 'COVAXIN', 'fee': '1250'}, {'vaccine': 'COVISHIELD', 'fee': '850'}]",Both,1250
+RXDX WHITE FIELD S1 P3,Telerad RxDx Healthcare Plot No. 7G Kundalahalli Main Rd Opp. Graphite India Whitefield Bengaluru Karnataka 560048,Karnataka,BBMP,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Manipal Clinic,No.45 45th Cross Jayanagara Bangalore 560078,Karnataka,BBMP,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+APOLLO JAYANAGAR-COVAXIN,21 2 14TH CROSS 3RD BLOCK NEAR MADAVAN PARK,Karnataka,BBMP,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+RxDx Siddapura P3,Miraya Rose 1st FloorB Block 101 Miraya Rose Next To Petrol Bunk Siddapura,Karnataka,BBMP,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+RxDx Kadugodi P3,Site No 34 1 B First Floor Above Dominos Pizza Opposite Sai Baba Ashram Kadugodi Bengaluru,Karnataka,BBMP,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+APOLLO SPECTRA HOSPITAL -1,No.143 1st Cross 5th Block Koramangala Bangalore,Karnataka,BBMP,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Dr Malathi Manipal Hospitals 1,JAIN COLLEGE DISTRICT FUND ROAD BEHIND BIG BAZAAR JAYANAGAR 9TH,Karnataka,BBMP,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Kasturba Hospital Manipal 1 C,Marina Sports Complex KMC Campus Manipal,Karnataka,Udupi,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+APOLLO HOSPITAL 1,Imperial Hospital Research Centre Limited,Karnataka,BBMP,"[{'vaccine': 'COVISHIELD', 'fee': '850'}, {'vaccine': 'COVAXIN', 'fee': '1250'}]",Both,1250
+APOLLO CRADLE - Koramangala,18th Main Road 58 Pipe Line Rd Near Anand Sweets 6th Block Koramangala,Karnataka,BBMP,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+APOLLO CRADLE JAYANAGAR,No.25 46th Cross 5TH BLOCK JAYANAGAR Bangalore,Karnataka,BBMP,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+SUGUNA HOSPITAL,DR RAJ KUMAR ROAD4TH N BLOCK RAJAJINAGAR,Karnataka,BBMP,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Apollo Hospital Amritsar,Apollo Hospital Amritsar,Punjab,Amritsar,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+MANIPAL WHITEFIELD COVAXIN,NO143212-215 EPIP Industrial Area Hoodi VillageKR Puram,Karnataka,BBMP,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+MAREENA KMC CV,MAREENA SPORTS COMPLEX KAPRIGUDDA NEXT TO KMC BOYS HOSTEL ATTAVARA,Karnataka,Dakshina Kannada,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Apollo BGS Hospitals Above 45,Ganabharathi Adichunchanagiri Road Kuvempunagara,Karnataka,Mysore,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Apollo BGS Hospitals 18 To 44,Ganabharathi Adichunchanagiri Road Kuvempunagara,Karnataka,Mysore,"[{'vaccine': 'COVAXIN', 'fee': '1250'}, {'vaccine': 'COVISHIELD', 'fee': '850'}]",Both,1250
+Apollo Clinic Doddakannelli P3,1257 P 7 Gear College Road Kadubeesanahalli Doddakannelli Main Road Near AET College Junction Chikkabellandur Carmelram Post Bangalore,Karnataka,BBMP,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Soni Hospital,Soni Hospital Jaipur,Rajasthan,Jaipur I,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Fortis Hospital Mohali,Fortis Hospital Mohali,Punjab,SAS Nagar,"[{'vaccine': 'COVAXIN', 'fee': '1250'}, {'vaccine': 'COVISHIELD', 'fee': '850'}]",Both,1250
+Medicover Hospital Nizamabad,Yellamma Gutta Nizamabad,Telangana,Nizamabad,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Care Nampally -2,Care Nampally,Telangana,Hyderabad,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+KIMS HOSPITAL -2,1-8-31-1 MINISTER ROAD KRISHANA NAGAR CPLONY,Telangana,Hyderabad,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Apollo Reach Hospital PCVC,Near Railway Satiation,Telangana,Karimnagar,"[{'vaccine': 'COVISHIELD', 'fee': '850'}, {'vaccine': 'COVAXIN', 'fee': '1250'}]",Both,1250
+Medicover Hospitals Karimnagar,Karimnagar,Telangana,Karimnagar,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Rainbow Childrens HospitalCVC1,Hydernagar Kukatpally,Telangana,Medchal,"[{'vaccine': 'COVISHIELD', 'fee': '1250'}]",COVISHIELD,1250
+Rainbow Children HospitalCVC2,Hydernagarkukatpally,Telangana,Medchal,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Ankura Hospital Kukatpally CVC,7th Phaes KPHB Colony Near HiTech City Railway Station,Telangana,Medchal,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+MallaReddy Narayana Hospital 2,Suraram Main Road,Telangana,Medchal,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+ANKURA HOSPITALS Boduppal CVC,BODUPPAL,Telangana,Medchal,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+RAINBOW KONDAPUR CVC ONE,Survey No 9 Whitefield Road Kondapur,Telangana,Rangareddy,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Fortis Hospital Mohali Session,Fortis Hospital Mohali,Punjab,SAS Nagar,"[{'vaccine': 'COVAXIN', 'fee': '1250'}, {'vaccine': 'COVISHIELD', 'fee': '850'}]",Both,1250
+ANKURA HOSPITAL CVC ONE,1 54 56 3 Madhinaguda Chandanagar,Telangana,Rangareddy,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Continental Hospital CVC Two,Plot No 3 Road No 2 IT Financial Dist Nanakramguda Gachibowli Hyderabad 500032,Telangana,Rangareddy,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Ankura LB Nagar CVC One,Saroornagar Village Mandal Landmark Metro Pillar No.1643 Ranga Reddy,Telangana,Rangareddy,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Aware Global CVC One,BairamalgudaSaroor NagarLB NagarHyderabad,Telangana,Rangareddy,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+CITIZENS HOSPITALS CVC Two,1-1001CCH Aparna Cyber Life Road Nalagandla,Telangana,Rangareddy,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+SHRI BALAJI MEDICOVER HOSPITAL,Kandi,Telangana,Sangareddy,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Apollo Clinic Ramrajatla,Ramcharan Sett Road Ramrajatla,West Bengal,Howrah,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+FORTIS MEDICAL Centre,2-7 Sarat Bose Road Kolkata 700020,West Bengal,Kolkata,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+FORTIS Hospital COVAXIN,730 Eastern Metropolitan Bypass Anandapur Kolkata 700107,West Bengal,Kolkata,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Care Hosp Banjarahills -2,6-3-248-2 Road 1 Banjarahills,Telangana,Hyderabad,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Healing Touch Hospital-secbad,8-1-9 Market Street Opposite Clock Tower Secunderabad,Telangana,Hyderabad,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Star Hospital 1,Plot No.8-2-596 B Road No.10 Banjara Hills Hyderabad,Telangana,Hyderabad,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+AIMSR Site-1,Apollo Hospitals Enterprise LimitedDoor.No.8-2-293-82 J-111-900-A Jubilee Hills,Telangana,Hyderabad,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Meghraj Healthcare,A-26-1 2nd Floor DLF Phase 1 Adjoining DT Mall,Haryana,Gurgaon,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Fortis Hospital CVC 1,Fortis Hospital,Rajasthan,Jaipur II,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Apollo Childrens HOS Covaxin,NO. 15 SHAFEE MOHAMMED ROAD THOUSAND LIGHTS CHENNAI,Tamil Nadu,Chennai,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+APOLLO MEDICAL CENTRE COVAXIN,F30 SECOND AVENUE ANNANAGAR EAST,Tamil Nadu,Chennai,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Apollo Mains Greams,21 GREAMS LANE OFF GREAMS ROAD,Tamil Nadu,Chennai,"[{'vaccine': 'COVISHIELD', 'fee': '850'}, {'vaccine': 'COVAXIN', 'fee': '1250'}]",Both,1250
+Apollo Spectra-Alwarpet-CVXIN,12 C P Ramasamy Rd Alwarpet Chennai,Tamil Nadu,Chennai,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+APOLLO MEDICAL CENTRE KOTTURPU,15 GANDHIMANDABAM ROAD OPP TO AMM SCHOOL KOTTURPURAM CHENNAI,Tamil Nadu,Chennai,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Apollo Spec Hosp OMR COVAXIN,5-639 Old Mahabalipuram Rd Tirumalai Nagar Perungudi Chennai,Tamil Nadu,Chennai,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+APOLLO CLINIC COVAXIN MADIPAKA,NO 74 MEDAVAKKAM MAIN ROAD BHARATHI NAGAR MADIPAKKAM,Tamil Nadu,Chennai,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+B M Hospitals,36 5th Main Rd Thillaiganga Nagar Nanganallur Chennai Tamil Nadu 600061,Tamil Nadu,Chennai,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Kavery Hospital-Covaxin,199 LUZ CHURCH RD KAPALI THOTTAM MYLAPORE CHENNAI,Tamil Nadu,Chennai,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Sri Ramakrishna Hospital CVC 2,365 Sarojini Naidu Street COIMBATORE,Tamil Nadu,Coimbatore,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Apollo Speciality Hospital,Lake View Road K K NagarMadurai,Tamil Nadu,Madurai,"[{'vaccine': 'COVAXIN', 'fee': '1250'}, {'vaccine': 'COVISHIELD', 'fee': '850'}]",Both,1250
+Apollo Hospital Trichy,Apollo Speciality Hospitals Chennai Bye - Pass Road  Ariyamangalam Old Palpannai Trichy,Tamil Nadu,Tiruchirappalli,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Kavery Medical Centre 2,NO1 K.C ROAD TENNUR TRICHY 17,Tamil Nadu,Tiruchirappalli,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Apollo Hospital Ayanambakkam 2,NO. 64 VANAGARAM TO AMBATTUR MAIN ROAD VANAGARAM KIL AYANAMBAKKAM,Tamil Nadu,Tiruvallur,"[{'vaccine': 'COVISHIELD', 'fee': '850'}, {'vaccine': 'COVAXIN', 'fee': '1250'}]",Both,1250
+Rainbow Banjarahills,Banjarahills Road No. 2 Near Park Hyderabad,Telangana,Hyderabad,"[{'vaccine': 'COVAXIN', 'fee': '1250'}, {'vaccine': 'COVISHIELD', 'fee': '850'}]",Both,1250
+Rainbow Children Hospital -sec,C-16 C-17 Vikrampuri Colony Thirumalgherry,Telangana,Hyderabad,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+GLOBAL HOSPITAL -2,GLENEAGLES GLOBALHOSPITAL LAKDIKAPOOL,Telangana,Hyderabad,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Fortis Memorial Resarch Inst,Sector - 44 Opposite HUDA City Gurga,Haryana,Gurgaon,"[{'vaccine': 'COVISHIELD', 'fee': '850'}, {'vaccine': 'COVAXIN', 'fee': '1250'}]",Both,1250
+1 Apollo Hospital,Plot No. 1 Swaminarayan Nagar New Adgaon Naka Panchavati Near Lunge Mangal Karyalay Nashik Maharashtra,Maharashtra,Nashik,"[{'vaccine': 'COVAXIN', 'fee': '1250'}, {'vaccine': 'COVISHIELD', 'fee': '850'}]",Both,1250
+PCVC - RAMESH HOSPITAL,COLLECTORATE ROAD NAGARAMPELAEMGUNTUR,Andhra Pradesh,Guntur,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+HCG Sun Hospitals,Ayodhya Chowk150 Feet Ring Roadhcg Marg,Gujarat,Rajkot Corporation,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+FORTIS C DOC CENTRE,B-16 CHIRAG ENCLAVE NEW DELHI -48,Delhi,South Delhi,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Apollo Hospitals Kakinada,APOLLO KAKINADA,Andhra Pradesh,East Godavari,"[{'vaccine': 'COVISHIELD', 'fee': '850'}, {'vaccine': 'COVAXIN', 'fee': '1250'}]",Both,1250
+Sir Ganga Ram Hospital Site 2,Sir Ganga Ram Hospital Old Rajinder Nagar New Delhi 110060,Delhi,Central Delhi,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+APOLLO HOSPITALS CITY CENTRE,1 TULSIBAG SOCIETY OPP DR HOUSE NR PARIMAL GARDEN ELLISBRIDGE,Gujarat,Ahmedabad Corporation,"[{'vaccine': 'COVISHIELD', 'fee': '850'}, {'vaccine': 'COVAXIN', 'fee': '1250'}]",Both,1250
+PCVC - MANIPAL HOSPITAL,Bye Pass Roadnear Waradhi,Andhra Pradesh,Guntur,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Max Hospital SESSION SITE 4,Mandir MargPress Enclave Road Saket New Delhi 110017,Delhi,South Delhi,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Sir Ganga Ram Hospital Site 3,Sir Ganga Ram Hospital,Delhi,Central Delhi,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Apollo CVHF Heart Institute 1,Opp GNFC TowerPakwan Cross Road S.G. HighwayAhmedabad Gujarat.,Gujarat,Ahmedabad Corporation,"[{'vaccine': 'COVAXIN', 'fee': '1250'}, {'vaccine': 'COVISHIELD', 'fee': '850'}]",Both,1250
+Max Hospital SESSION SITE 2,Mandir MargPress Enclave Road Saket New Delhi 110017,Delhi,South Delhi,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Apollo CBCC Siddhivinayak Hosp,Balvatika Maninagar,Gujarat,Ahmedabad Corporation,"[{'vaccine': 'COVISHIELD', 'fee': '850'}, {'vaccine': 'COVAXIN', 'fee': '1250'}]",Both,1250
+Manipal Hospital,Dr E Borges Rd Dona Paula,Goa,North Goa,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+MAX PANCHSHEEL PARK SITE 2,N 110 Block N Panchsheel Park,Delhi,South Delhi,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+ANDHRA HOSPITAL VJA,ANDHRA HOSPITAL,Andhra Pradesh,Krishna,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Max Hospital,Max Hospital Opp HUDA City Block Sushant Lok,Haryana,Gurgaon,"[{'vaccine': 'COVISHIELD', 'fee': '900'}, {'vaccine': 'COVAXIN', 'fee': '1250'}]",Both,1250
+Max Smart S Special Hospital,Mandir MargPress Enclave Road Saket New Delhi 110017,Delhi,South Delhi,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Ramesh HospitalsMainBranchVJA,Ring Road Near ITI College Vijayawada8,Andhra Pradesh,Krishna,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Fortis Hospital Shalimarbagh 1,Fortis Hospital A Block Shalimar Bagh New Delhi 110088,Delhi,North West Delhi,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Max Hospital SESSION SITE 3,Mandir MargPress Enclave Road Saket New Delhi 110017,Delhi,South Delhi,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Apollo Hospital Nellore CVC,APOLLO Basement Pinakini Nagar Muthukur Road,Andhra Pradesh,Sri Potti Sriramulu Nellore,"[{'vaccine': 'COVAXIN', 'fee': '1250'}, {'vaccine': 'COVISHIELD', 'fee': '850'}]",Both,1250
+Apollo Hospitals Health City,Apollo Hospital Health City Chinnagadili Visakhapatnam,Andhra Pradesh,Visakhapatnam,"[{'vaccine': 'COVISHIELD', 'fee': '850'}, {'vaccine': 'COVAXIN', 'fee': '1250'}]",Both,1250
+Primus Super Specialty Hosp 2,Chankyapuri New Delhi,Delhi,New Delhi,"[{'vaccine': 'COVAXIN', 'fee': '1250'}, {'vaccine': 'COVISHIELD', 'fee': '900'}]",Both,1250
+Max Hospital SESSION SITE 5,Mandir MargPress Enclave Road Saket New Delhi 110017,Delhi,South Delhi,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Fortis Hospital Site 2,Vasant Kunj New Delhi,Delhi,New Delhi,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Fortis Hospital Shalimarbagh 2,Fortis Hospital A Block Shalimar Bagh New Delhi 110088,Delhi,North West Delhi,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+MAX PANSHEEL PARK,N 110 Block N Panchsheel Park,Delhi,South Delhi,"[{'vaccine': 'COVAXIN', 'fee': '1250'}]",COVAXIN,1250
+Apollo Private Hospital,Apollo Pri Hospital Bhat,Gujarat,Gandhinagar Corporation,"[{'vaccine': 'COVISHIELD', 'fee': '850'}, {'vaccine': 'COVAXIN', 'fee': '1250'}]",Both,1250
+Narayana Hospital - CVC,Chintha Reddypalem,Andhra Pradesh,Sri Potti Sriramulu Nellore,"[{'vaccine': 'COVAXIN', 'fee': '1200'}]",COVAXIN,1200
+MAHAJAN IMAGING,C 6-8 SAFDARJUNG DEVELOPMENT AREA NEW DELHI,Delhi,South Delhi,"[{'vaccine': 'COVISHIELD', 'fee': '1200'}]",COVISHIELD,1200
+RAINBOW LB NAGAR CVC ONE,Near Chintalkunta Checkpost Saraswatinagar LB Nagar,Telangana,Rangareddy,"[{'vaccine': 'COVAXIN', 'fee': '1200'}]",COVAXIN,1200
+SIMS HOSPITAL 1,1 JAWAHARLAL ROAD VADAPALANI,Tamil Nadu,Chennai,"[{'vaccine': 'COVISHIELD', 'fee': '1200'}]",COVISHIELD,1200
+Miracles Apollo Cradle Spectra,Plot No 45 Vatika India Next Sector 82 Gurgaon,Haryana,Gurgaon,"[{'vaccine': 'COVAXIN', 'fee': '1200'}]",COVAXIN,1200
+Yashoda Malakpet,16-10 Malakpet,Telangana,Hyderabad,"[{'vaccine': 'COVAXIN', 'fee': '1200'}]",COVAXIN,1200
+Yashoda Hosp Somaji -2,6-3-906 Raj Bhavan Road Somajiguda Hyd,Telangana,Hyderabad,"[{'vaccine': 'COVAXIN', 'fee': '1200'}]",COVAXIN,1200
+Yashoda Hospital Secbad Site 1,Yashoda Hospital Behind Harihara Kalavhavan Sec-bad,Telangana,Hyderabad,"[{'vaccine': 'COVAXIN', 'fee': '1200'}]",COVAXIN,1200
+Narayana SupSp Hospital,TRB Hosp CampusAmingaon Guwahati,Assam,Kamrup Rural,"[{'vaccine': 'COVAXIN', 'fee': '1150'}]",COVAXIN,1150
+Nhmmi Narayana Hospital,Lalpur Raipur CG,Chhattisgarh,Raipur,"[{'vaccine': 'COVAXIN', 'fee': '1150'}]",COVAXIN,1150
+KIMS Bellerose (Kottayam),Apollo Tyres Ernakulam Road North Kalamassery Kalamassery Kochi Kerala India,Kerala,Ernakulam,"[{'vaccine': 'COVISHIELD', 'fee': '1100'}]",COVISHIELD,1100
+Max Super Speciality Hospital,Max Super Speciality Hospital Mussoorie Diversion Road Dehradun,Uttarakhand,Dehradun,"[{'vaccine': 'COVISHIELD', 'fee': '1100'}]",COVISHIELD,1100
+Kingsway Pvt Hospital,Near Kasturchand Park Nagpur,Maharashtra,Nagpur,"[{'vaccine': 'COVISHIELD', 'fee': '1100'}]",COVISHIELD,1100
+Mallige Hospital Block 1,Crescent Rd Madhava Nagar Gandhi Nagar Bengaluru,Karnataka,BBMP,"[{'vaccine': 'COVISHIELD', 'fee': '1050'}]",COVISHIELD,1050
+Wockhardt Hospital MR,Near Rasazz Theater the Umrao Institute Of Medical Science And Research Near Railway Station Mira Road East,Maharashtra,Thane,"[{'vaccine': 'COVISHIELD', 'fee': '1030'}]",COVISHIELD,1030
+Venketshwar 2,SECTOR18 A PHASE3 DWARKA NEW DELHI 110075,Delhi,South West Delhi,"[{'vaccine': 'COVISHIELD', 'fee': '1000'}]",COVISHIELD,1000
+TECHNO INDIA DAMA,TECHNO INDIA DAMA,West Bengal,North 24 Parganas,"[{'vaccine': 'COVISHIELD', 'fee': '1000'}]",COVISHIELD,1000
+Aakash 2,Vegas Mall Plot No-6North Pocket 1 Dwarka Sector-14 Delhi-110075,Delhi,South West Delhi,"[{'vaccine': 'COVISHIELD', 'fee': '1000'}]",COVISHIELD,1000
+OYSTER And PEARL HOSPITAL,Shivajinagar Pune,Maharashtra,Pune,"[{'vaccine': 'COVISHIELD', 'fee': '1000'}]",COVISHIELD,1000
+Aakash Healtcare,Vegas Mall Plot No-6North Pocket 1 Dwarka Sector-14 Delhi-110075,Delhi,South West Delhi,"[{'vaccine': 'COVISHIELD', 'fee': '1000'}]",COVISHIELD,1000
+Medica North Bengal 1,Medica North Bengal,West Bengal,Darjeeling,"[{'vaccine': 'COVISHIELD', 'fee': '1000'}]",COVISHIELD,1000
+SHUKLA CHILDREN HOSPITAL,01GANGADHAR PLOT STATION RAOD AKOLA444001,Maharashtra,Akola,"[{'vaccine': 'COVISHIELD', 'fee': '1000'}]",COVISHIELD,1000
+Trimurti Hospital A Unit Of TR,S 2 BY 344 SIKRAUL GILAT BAZAR VARANASI,Uttar Pradesh,Varanasi,"[{'vaccine': 'COVISHIELD', 'fee': '1000'}]",COVISHIELD,1000
+Techno India University,EM-4-1 Sector -V Salt Lake,West Bengal,North 24 Parganas,"[{'vaccine': 'COVISHIELD', 'fee': '1000'}]",COVISHIELD,1000
+Genesis Fertility,607 Mall Road Model Town Near Manbro Chowk Jalandhar,Punjab,Jalandhar,"[{'vaccine': 'COVISHIELD', 'fee': '1000'}]",COVISHIELD,1000
+MEDICA ADV. DIAGNOCTICCENTRE,BARIYATU,Jharkhand,Ranchi,"[{'vaccine': 'COVISHIELD', 'fee': '1000'}]",COVISHIELD,1000
+MEDICA HOSPITAL,BARIYATU,Jharkhand,Ranchi,"[{'vaccine': 'COVISHIELD', 'fee': '1000'}]",COVISHIELD,1000
+KANVA DIAGNOSTIC1,KANVA DIAGNOSTIC Dr Raj Kumar Rd Rajajinagar Bengaluru - 560010,Karnataka,BBMP,"[{'vaccine': 'COVISHIELD', 'fee': '1000'}]",COVISHIELD,1000
+SCI INTERNATIONAL HOSPITAL 2,4 GREATER KAILASH 1 NEAR M BLOCK MARKET,Delhi,South Delhi,"[{'vaccine': 'COVISHIELD', 'fee': '1000'}]",COVISHIELD,1000
+HOPE ONCOLOGY SESSION SITE,Hope Oncology Clinic A-22 Hauz Khas Near Nilli Masjid New Delhi,Delhi,South Delhi,"[{'vaccine': 'COVISHIELD', 'fee': '1000'}]",COVISHIELD,1000
+KOTBAGI HOSPITAL Pvt Ltd,DP Road Aundh Pune,Maharashtra,Pune,"[{'vaccine': 'COVISHIELD', 'fee': '990'}]",COVISHIELD,990
+PD HINDUJA NATIONAL HOSP KHAR,724 11th Road Khar West Mumbai,Maharashtra,Mumbai,"[{'vaccine': 'COVISHIELD', 'fee': '980'}]",COVISHIELD,980
+P D Hinduja 1,PD HINDUJA NATIONAL HOSPITAL Vaccination At Bombay Scottish School 153 SVS Road MAHIM West. Mumbai.,Maharashtra,Mumbai,"[{'vaccine': 'COVISHIELD', 'fee': '980'}]",COVISHIELD,980
+Baby Memorial Hospital,Arayidathupalam Kozhikode Kerala,Kerala,Kozhikode,"[{'vaccine': 'COVISHIELD', 'fee': '950'}]",COVISHIELD,950
+New Life Child Care Hospital,Kalewadi Main Rd Opp. DMart Shriram Colony Kalewadi Pimpri-Chinchwad Maharashtra 411017,Maharashtra,Pune,"[{'vaccine': 'COVISHIELD', 'fee': '950'}]",COVISHIELD,950
+KIMS KOLLAM,KIMS KOLLAM MULTI SPECIALITY HOSPITAL SITHARA JN KOTTIYAM KOLLAM,Kerala,Kollam,"[{'vaccine': 'COVISHIELD', 'fee': '950'}]",COVISHIELD,950
+KIMS Bellerose Institute,KIMS Bellerose Institute Of Medical Sciences Pvt. Ltd. Thuthooty Jn Kudamaloor P O Kottayam,Kerala,Kottayam,"[{'vaccine': 'COVISHIELD', 'fee': '950'}]",COVISHIELD,950
+ASTER MIMS,ASTER MIMS Chala Kannur,Kerala,Kannur,"[{'vaccine': 'COVISHIELD', 'fee': '950'}]",COVISHIELD,950
+Aster MIMS Kozhikode,Mini Bypass Rd Govindapuram Kozhikode Kerala 673016,Kerala,Kozhikode,"[{'vaccine': 'COVISHIELD', 'fee': '950'}]",COVISHIELD,950
+MIMS KOTTAKKAL,NH 66 Calicut Thrissur Road Changuvetty Kerala 676503,Kerala,Malappuram,"[{'vaccine': 'COVISHIELD', 'fee': '950'}]",COVISHIELD,950
+KIMS Medical Centre Manacaud,SMH Complex Opp Kamaleshwaram Govt. HSS Manacaud P.O.Trivandrum,Kerala,Thiruvananthapuram,"[{'vaccine': 'COVISHIELD', 'fee': '950'}]",COVISHIELD,950
+KIMS HEALTHCARE MANAGEMENT LTD,KIMS PB No 1 Anayara P O Trivandrum,Kerala,Thiruvananthapuram,"[{'vaccine': 'COVISHIELD', 'fee': '950'}]",COVISHIELD,950
+Life Line Hospital Adoor,Life Line Hospital Adoor,Kerala,Pathanamthitta,"[{'vaccine': 'COVISHIELD', 'fee': '950'}]",COVISHIELD,950
+KIMS ALSHIFA,Perinthalmanna,Kerala,Malappuram,"[{'vaccine': 'COVISHIELD', 'fee': '950'}]",COVISHIELD,950
+Phoenix Hospital Thergaon,Aundh Dange Chowk Road Opp. Rythem Society Near Kalewadi Phata Pawar Nagar Thergaon Pune Maharashtra 411033,Maharashtra,Pune,"[{'vaccine': 'COVISHIELD', 'fee': '950'}]",COVISHIELD,950
+Sahara Hospital Lucknow,Viraj Khand Gomti Nagar Lucknow,Uttar Pradesh,Lucknow,"[{'vaccine': 'COVISHIELD', 'fee': '950'}]",COVISHIELD,950
+NIMS HOSPITAL PVT.,NIMS HOSPITAL,Rajasthan,Jaipur I,"[{'vaccine': 'COVISHIELD', 'fee': '950'}]",COVISHIELD,950
+BINAYAK HOSPITAL,59 KALI CHARAN GHOSH ROAD N 24 PGS,West Bengal,North 24 Parganas,"[{'vaccine': 'COVISHIELD', 'fee': '950'}]",COVISHIELD,950
+MGM Hospital Pvt Limited,New No 72 Old No 54 Nelson Manickam Rd Aminjikarai Chennai,Tamil Nadu,Chennai,"[{'vaccine': 'COVISHIELD', 'fee': '950'}]",COVISHIELD,950
+Madhukar Rainbow Hospital P,NEAR MALVIYA NAGAR METRO STATION,Delhi,South Delhi,"[{'vaccine': 'COVISHIELD', 'fee': '950'}]",COVISHIELD,950
+Bhailal Amin Gen Hos-2-P,Alembic Vidhyalay Alembic Road,Gujarat,Vadodara Corporation,"[{'vaccine': 'COVISHIELD', 'fee': '950'}]",COVISHIELD,950
+Krishna Hospital,Krishna Hospital Behind Mahesh Hotel Sanala Road Morbi Dist- Morbi,Gujarat,Morbi,"[{'vaccine': 'COVISHIELD', 'fee': '950'}]",COVISHIELD,950
+EVAA HOSPITAL,TILAK NAGAR,Rajasthan,Jaipur I,"[{'vaccine': 'COVISHIELD', 'fee': '950'}]",COVISHIELD,950
+Smt. Jayaben Modi Ankleshwar,VALIYA ROADGIDCANKLESHWAR,Gujarat,Bharuch,"[{'vaccine': 'COVISHIELD', 'fee': '910'}]",COVISHIELD,910
+BHARATI HOSPITAL DHANKAWADI,DHANKAWADI PUNE,Maharashtra,Pune,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Dr B L Kapur Hospital Site 4,PUSA ROAD RAJINDRA PLACE NEW DELHI 110005,Delhi,Central Delhi,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+SAHYADRI KARAD HOSPITALS PVT.,Third Floor Room No 305306 Karad Satara Highway,Maharashtra,Satara,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+SANJEEVAN HOSPITAL,23 OFF KARVE ROAD OPPOSITE CENTRAL MALL KASHIBAI KHILARE PATH ERANDAWANE PUNE,Maharashtra,Pune,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Dr B L Kapur Hospital Site 3,PUSA ROAD RAJINDRA PLACE NEW DELHI 110005,Delhi,Central Delhi,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+MAX PANCHSHEEL PARK SITE 5,N 110 Block N Panchsheel Park,Delhi,South Delhi,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Healing Hands Clinic Chinchwad,Premier Plaza Service Rd Anand Nagar Chinchwad Pimpri-Chinchwad Maharashtra 411019,Maharashtra,Pune,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Dr B L Kapur Hospital Site 1,PUSA ROAD RAJINDRA PLACE NEW DELHI 110005,Delhi,Central Delhi,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Ruby Hall Clinic,Rajeev Gandhi Infotech Park Phase I Plot No P-33 HinjawadiPune.,Maharashtra,Pune,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Dr B L Kapur Hospital Site 2,PUSA ROAD RAJINDRA PLACE NEW DELHI 110005,Delhi,Central Delhi,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Deenanath Hospital Private,Erandwane Pune,Maharashtra,Pune,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Rajiv Gandhi Cancer Institute2,D18 Sector 5 Rohini Delhi 110085,Delhi,North West Delhi,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+GLOBAL HOSPITAL DATTAWADI,577 2 GLOBAL HOSPITAL OFF SINHAGAD ROAD DATTAWADI,Maharashtra,Pune,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+SANJEEVANI HOSP UTTAM NAGAR,UTTAMNAGAR NEAR BHAJI MANDAI PUNE,Maharashtra,Pune,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Global Health Care,H No 2164 Sector 21-C,Chandigarh,Chandigarh,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Sahyadri Hospital Bibwewadi,Plot No 13 S No 573 City No 281 Swami Vivekananda Marg Bibwewadi,Maharashtra,Pune,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Max Hospital Site 1,FC 50 C And D Block Shalimar Place Site Shalimar Bagh New Delhi Delhi 110088,Delhi,North West Delhi,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+SAHYADRI SUPER SPECIALITY,KARVE ROAD DECCAN PUNE,Maharashtra,Pune,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+K E M HOSPITAL RASTA PETH,RASTA PETH PUNE,Maharashtra,Pune,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+MAI MANGESHKAR HOSPITAL WARJE,117 NEAR BAIF MUMBAI BANGLORE HIGHWAY WARJE,Maharashtra,Pune,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Jehangir Hosp,32 Sasoon Road Pune,Maharashtra,Pune,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Max Hospital Bathinda,Bathinda,Punjab,Bathinda,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+MAX HOSPITAL-1,108 I.P. Extension Patparganj Delhi 110092,Delhi,East Delhi,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Chellaram Hospital,Lalani Quantam N H Bavdan Pune,Maharashtra,Pune,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+MPCT Hospital Navi Mumbai,C7 Budhyadev Mandir Marg Sector 4 Sanpada Navi Mumbai,Maharashtra,Thane,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+KRISHNA HOSPITAL Kothrud,2 ANJANWEL PRASHANT SOC PUD ROAD PUNE,Maharashtra,Pune,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Apollo Spectra Sheetla Hos.,Sheetla Hospital Near Dronacharya Govt. College New Railway Road,Haryana,Gurgaon,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+POONA HOSPITAL PRIVATE,27 SADASHIV PETHCPUNE,Maharashtra,Pune,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+SURYA SAYADRI HOSPITAL,KASBA PETHPUNE,Maharashtra,Pune,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Rajiv Gandhi Cancer Cen SITE 1,Mahinder Kumar Jain Marg Gautam Nagar New Delhi Delhi 110049,Delhi,South Delhi,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+SHASHWAT HOSPITAL KOTHRUD,22 HAPPY COLONY PALVI PRIME KOTHRUD PUNE,Maharashtra,Pune,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Max MedCenter 3 Mohali,Plot No A19 Industrial Area Phase 6 SAS Nagar,Punjab,SAS Nagar,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+RUBY HALL HOSPITAL SASOON ROAD,Near Railway Station Pune,Maharashtra,Pune,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+New Public School Sec-18 CHD,New Public School Sector-18 Chandigarh,Chandigarh,Chandigarh,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+RUBY HALL CLINIC (WANOWARIE),59 6 AZHAD NAGAR WANOWARIE PUNE,Maharashtra,Pune,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+SHASHWAT HOSPITAL AUND,DAV PUBLIC SCHOOL AUNDH PUNE,Maharashtra,Pune,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+MAX PANCHSHEEL PARK SITE 4,N 110 Block N Panchsheel Park,Delhi,South Delhi,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Max Hospital Patparganj,108 I.P. Extension Patparganj Delhi 110092,Delhi,East Delhi,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Healing Hands Clinic,Dhole Patil Road,Maharashtra,Pune,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Lalwani Mother And Child Care,SNo.51CTS No.3670 Pune,Maharashtra,Pune,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Sahyadri Hospital Hadapsar,Hadapsar Pune,Maharashtra,Pune,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Surya Hospital Wakad,Bhujbalwasti Wakad Pune,Maharashtra,Pune,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+SURANA SETHIA HOSPITAL CHEMBUR,Sion - Trombay Rd Suman Nagar Chembur Mumbai,Maharashtra,Mumbai,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Cloudnine Hospital Chandigarh,Plot No. 48 Industrial Area Phase 2Near Passport Office Chandigarh,Chandigarh,Chandigarh,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Suraksha Diagonistic- Garia,66 Mahamayatal Garia Kolkata Landmark - Beside 228 Busstand,West Bengal,Kolkata,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+N M WADIA INSTITUTE CARDIOLOGY,32 SASOON ROAD PUNE,Maharashtra,Pune,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Max Hospital SESSION SITE 8,Mandir MargPress Enclave Road Saket New Delhi 110017,Delhi,South Delhi,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+CLOUDNINE BELLANDUR P3,Municipal No 1.79.4 Bellandur Village Bengaluru East Taluk Karnataka 560103,Karnataka,BBMP,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Woodlands MultispecialityHosp,8 By 5 Alipore Road Kolkata 700027,West Bengal,Kolkata,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+SURAKSHA JADAVPUR,56Ek Ta Heights Building Raja S.C Mullick Road,West Bengal,Kolkata,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+I SWZ SUNSHINE GLOBAL HOSPITAL,BESIDE BIG BAZARGAURAV PATHDUMAS ROADSURAT,Gujarat,Surat Corporation,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Suraksha Diagonastics PVT Ltd,Indraprastha Appartment 24 M. B. Road Kalabagan Near North Dum Dum Municipality Hospital,West Bengal,North 24 Parganas,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Max Hospital Site 2,FC 50 C And D Block Shalimar Place Site Shalimar Bagh New Delhi Delhi 110088,Delhi,North West Delhi,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Suraksha Diagonastics AryanTow,Aryan Tower 1st Floor 271 B Sodepur Road East  Kolkata,West Bengal,North 24 Parganas,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Rajiv Gandhi Cancer Cen SITE 2,Mahinder Kumar Jain Marg Gautam Nagar New Delhi Delhi 110049,Delhi,South Delhi,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Rainbowhospital2nd Floor,No 178-1 And 178-2 OPP Janardhan Towers Bilekahalli Bangalore,Karnataka,BBMP,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Suraksha Diagnostics Khardha,Khardaha 98 Barrackpore Trunk Rd Kolkata West Bengal 700117,West Bengal,North 24 Parganas,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+QRG MEDICARE LTD,SECTOR 16 FARIDABAD,Haryana,Faridabad,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Suraksha Diagonastics DUMDUM S,Satnam Apartment P-310 Jessore Road Kolkata,West Bengal,North 24 Parganas,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Cloudnine Hospital-Jayanagar,No.1553 1st Floor 9th Main Road Jayanagar 1st Block Jayanagar East Blore - 560011,Karnataka,BBMP,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Sarvodaya Hospital Sector 8,Sector 8 YMCA Rd Near Escorts Mujesar Metro Station Faridabad,Haryana,Faridabad,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Artemis Hospital Pvt,Sec 51 Gurugram,Haryana,Gurgaon,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Suraksha Diagnostics Mall Road,Shop No. 3 Ground Floor Saltee Plaza Khudiram Bose Sarani E Mall Rd Nagerbazar South Dumdum West Bengal 700080,West Bengal,North 24 Parganas,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Suraksha Diagnostics JC 21,JC 21 JC Block Sector III Bidhannagar Kolkata West Bengal 700106,West Bengal,North 24 Parganas,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Max Hospital SESSION SITE 7,Mandir MargPress Enclave Road Saket New Delhi 110017,Delhi,South Delhi,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Ramzan Institute Of Paramedics,Gulshan Nagar,Jammu and Kashmir,Srinagar,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Columbia Asia,Palam Vihar,Haryana,Gurgaon,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Suraksha Diag New Barrackpur,271 Sarat Chatterjee Road New Barracpore  Kolkata,West Bengal,North 24 Parganas,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Cloud Nine Pvt Hospital,MDC Sec5 Panchkula,Haryana,Panchkula,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Medanta-Mediclinic Covishield,Building No. 10C DLF Phase 2 CybercityGurgaon,Haryana,Gurgaon,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Medanta The Medicity,Sector - 38  Gurgaon Pin Code 122001,Haryana,Gurgaon,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+CK BIRLA,Sec- 51 Gurgaon Mayfield Garden,Haryana,Gurgaon,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+SURAKSHA DIAG PVT.LTD-KASBA,1582 RAJDANGA MAIN ROAD SOUTHEND CONCLAVE KOLKATA,West Bengal,Kolkata,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Apollo Clinic,6 Vivekananda Road Ganesh Talkies Raja Katra Singhi Bagan Jorasanko Kolkata West Bengal 700007,West Bengal,Kolkata,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+SURAKSHA DIAGNOSTIC- Behala,358 SANTOSH ROY ROADKOLKATA-700008,West Bengal,Kolkata,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+SURANA HOSPITAL 1,Tank Road End Of Shankar Lane Near Orlem Church Orlem Lourdes Colony Malad West Mumbai Maharashtra 400064,Maharashtra,Mumbai,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+D Y Patil Hospital Pimpri,Sant Tukaram Nagar Pimpri Colony PimpriChinchwad Maharashtra 411018,Maharashtra,Pune,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Max MedCenter 2 Mohali,Plot No A19 Industrial Area Phase 6 SAS Nagar,Punjab,SAS Nagar,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+HEALING HANDS CLINIC PVT LTD,101 102 GIRME HEIGHTS WING B FIRST FLOOR SALUNKE VIHAR ROAD WANOW,Maharashtra,Pune,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+SAHYADRI SUPER SP NAGAR ROAD,NAGAR ROAD PUNE,Maharashtra,Pune,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+SAHYADRI SPECIALITY HOSPITAL,WADALA ROAD DWARKA CIRCLE,Maharashtra,Nashik,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+GNRC Hospital,Paramount Six Mile,Assam,Kamrup Metropolitan,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Ultra Care,SURVEY BELTOLA,Assam,Kamrup Metropolitan,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Max MedCenter 1 Mohali,Plot No A19 Industrial Area Phase 6 SAS Nagar,Punjab,SAS Nagar,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Max Hospital SESSION SITE 10,Mandir MargPress Enclave Road Saket New Delhi 110017,Delhi,South Delhi,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+NANAVATI HOSPITAL 1,Mumbai - Vile Parle,Maharashtra,Mumbai,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Down Town Hospital,G S ROAD DISPUR,Assam,Kamrup Metropolitan,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+FELIX HEALTHCARE PVT LIMITED,SECTOR 137 NOIDA,Uttar Pradesh,Gautam Buddha Nagar,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Max Hospital SESSION SITE 6,Mandir MargPress Enclave Road Saket New Delhi 110017,Delhi,South Delhi,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+MAX MULTISPECIALITY CENTRE,A 364 SECTOR 19 NOIDA,Uttar Pradesh,Gautam Buddha Nagar,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+JAYPEE HOSPITAL (J H C L),SECTOR 128 NOIDA,Uttar Pradesh,Gautam Buddha Nagar,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Krishna Medical Centre,22 Inder Road Dalanwala Dehradun,Uttarakhand,Dehradun,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+MAX PANCHSHEEL PARK SITE 6,N 110 Block N Panchsheel Park,Delhi,South Delhi,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Swasthya Hospital(Corp),Annabhau Sathe ChowkLal Taki,Maharashtra,Ahmednagar,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+SCI HEALTHCARE PVT LTD,ZYGON SQUARE 3 FLOOR BLOCK H1A SECTOR 63 NOIDA,Uttar Pradesh,Gautam Buddha Nagar,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Max Hospital SESSION SITE 9,Mandir MargPress Enclave Road Saket New Delhi 110017,Delhi,South Delhi,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Ayushman Hospital Health S,Sector 10 Dwarka New Delhi 110075,Delhi,South West Delhi,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+CLOUDNINE HOSPITAL PVT LTD C 9,SECTOR 51 NOIDA,Uttar Pradesh,Gautam Buddha Nagar,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+Max Hospital Vaishali-1,W-3  Sector-1 Vaishali Ghaziabad,Uttar Pradesh,Ghaziabad,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+MAX PANCHSHEEL PARK SITE 3,N 110 Block N Panchsheel Park,Delhi,South Delhi,"[{'vaccine': 'COVISHIELD', 'fee': '900'}]",COVISHIELD,900
+APOLLO FIRST MED,NO 54 PONAMALLAE HIGH ROAD KILPAUK,Tamil Nadu,Chennai,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Apollo Hospital Tondiarpet,T.HROAD TONDIARPET,Tamil Nadu,Chennai,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Apollo Clinic Valasaravakkam,1 Prakasam Salai Near McDonald Valasaravakkam,Tamil Nadu,Chennai,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Fortis Malar Hospital,Fortis Malar HospitalChennai TN.,Tamil Nadu,Chennai,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Fortis Shalimar Site 7,Fortis Hospital A Block Shalimar Bagh New Delhi 110088,Delhi,North West Delhi,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Fortis Shalimar Site 4,Fortis Hospital A Block Shalimar Bagh New Delhi 110088,Delhi,North West Delhi,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Apollo Hospital Karur,163 AE Allwyn Nagar 30 LGB Nagar Kovai Main Rd Vaiyapuri Nagar Ramanujam Nagar Karur,Tamil Nadu,Karur,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+APOLLO HOSPITALS GUWAHATI,Lotus Tower GS Road,Assam,Kamrup Metropolitan,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Fortis Hospital Shalimarbagh 3,Fortis Hospital A Block Shalimar Bagh New Delhi 110088,Delhi,North West Delhi,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Apollo Hospitals - Trichy,Apollo Speciality Hospitals Chennai Bye - Pass Road  Ariyamangalam Old Palpannai Trichy,Tamil Nadu,Tiruchirappalli,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Apollo Clinic Chinar Park,BMC 5 1 70 Jagadanga Block A PO R GOPALPUR P S Airport Rajarhat,West Bengal,North 24 Parganas,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+AMRI HOSPITAL SALT LAKE,AMRI HOSPITAL SALT LAKE,West Bengal,North 24 Parganas,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Apollo Clinic Saltlake-SHLPL,Apollo ClinicG-101CITY CentreSaltlake,West Bengal,North 24 Parganas,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Reliable Diagnostic Polyclinic,Green Vista Narayanpur Near 217 A Bus Stand,West Bengal,North 24 Parganas,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Millennium Health Care,BE 87 SALT LAKE,West Bengal,North 24 Parganas,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Apollo Gleneagles Med-Gariahat,48-1F Leela Roy Sarani Kol-700019,West Bengal,Kolkata,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+KIMS RJY PVT,Krishna Institute Of Medical Sciences Limited  D.No.77-7-7 77-7-6 Katari Gardens  Seelam Nooka Raju Complex  Rajamahendravaram,Andhra Pradesh,East Godavari,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Apollo Gleneagles Kolkata,58 Canal Cirucular Road Kolkata 700054,West Bengal,Kolkata,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+AMRI Hospital Mukundapur,230 Barakhola Lane Mukundapur Kolkata-700099,West Bengal,Kolkata,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+AMRI Med Centre Southern Avenu,97A Southern Avenue Kolkata 700029,West Bengal,Kolkata,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+AMRI Hospitals Dhakuria,15 Panchanantala Road Kolkata 700029,West Bengal,Kolkata,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+NTPC APPOLOMEDIC SS HOSPITAL,NTPC CAMPUS UNCHAHAR RAEBARELI,Uttar Pradesh,Raebareli,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Apollomedics Hospital,Kanpur - Lucknow Rd Sector B Bargawan LDA Colony Lucknow UP,Uttar Pradesh,Lucknow,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+LIFECARE. HOSPITAL,CIVIL LINE CANTT. CHAURAHA BETIAHATA,Uttar Pradesh,Gorakhpur,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Columbia Asia Hospital,NH-24 Near Land Craft Golf Link Ghaziabad,Uttar Pradesh,Ghaziabad,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Sharda Hospital G NOIDA,Plot No.32-34 Knowledge Park-3 Greater Noida,Uttar Pradesh,Gautam Buddha Nagar,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+APOLLO HOSPITALS PVT,E 2 SECTOR 26 NOIDA,Uttar Pradesh,Gautam Buddha Nagar,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+KAILASH HOSPITAL AND NEURO INS,NH 1 SECTOR 71 NOIDA,Uttar Pradesh,Gautam Buddha Nagar,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+KAILASH HOSPITAL LIMITED,23 KNOWLEDGE PARK 1 GREATER NOIDA,Uttar Pradesh,Gautam Buddha Nagar,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+KAILASH HOSPITAL HEART INST,H 33 SECTOR 27 NOIDA,Uttar Pradesh,Gautam Buddha Nagar,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Apollo Spec HospOMR COVISHIELD,5-639 Old Mahabalipuram Rd Tirumalai Nagar Perungudi Chennai,Tamil Nadu,Chennai,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Apollo Specialty CVC One,Kondapur,Telangana,Rangareddy,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Kakatiya Hospital CVC,Near Uppal Bus Depot,Telangana,Medchal,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Apollo Hospital,Bilaspur,Chhattisgarh,Bilaspur,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Apollo Hospital Jubilee Hills,Apollo Hospitals Enterprise LimitedDoor.No.8-2-293-82 J-111-900-A Jubilee Hills,Telangana,Hyderabad,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Fortis Hospital Site 1,Vasant Kunj New Delhi,Delhi,New Delhi,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Fortis Shalimar Site 6,Fortis Hospital A Block Shalimar Bagh New Delhi 110088,Delhi,North West Delhi,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Rainbow Childrens Medicare,No 157 Anna Salai Guindy Chennai 600015,Tamil Nadu,Chennai,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+HIRANANDANI HOSPITAL NAVI MUMB,Mini Seashore Rd Sector 10 Vashi Navi Mumbai,Maharashtra,Thane,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Apollo Clinic VELACHEY,Plot No. 46 7th Street Tansi Nagar Velachey- 600042,Tamil Nadu,Chennai,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Symbiosis University Hospital,936 1 And 936 2 Gat Number AT POST LAVALESYMBIOSIS INTERNATIONAL UNIVERSITY (SIU ) CAMPUS 412115 936 1 And 936 2 Gat Number AT POST LAVALESYMBIOSIS INTERNATIONAL UNIVERSITY (SIU ) CAMPUS 412115,Maharashtra,Pune,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+MAREENA KMC,MAREENA SPORTS COMPLEX KAPRIGUDDA NEXT TO KMC BOYS HOSTEL ATTAVARA,Karnataka,Dakshina Kannada,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+KMC Jyothi Mangalore,JYOTHI AMBEDKAR CIRCLE MANGALORE,Karnataka,Dakshina Kannada,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Kanachur Hospital,University Road Deralakatte,Karnataka,Dakshina Kannada,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Apollo Adlux Hospital,Near Adlux Convention Center Cable Junction Ernakulam District National Highway 47 Karukutty Angamaly,Kerala,Ernakulam,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Human Care Medical Charitable,Sector 6 Dwarka Near MTNL Building New Delhi 110075,Delhi,South West Delhi,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Shakuntala Devi Hospital,Shakuntala Hospital 442443 Goyal Nagar Indore,Madhya Pradesh,Indore,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+MGM Hospital Aurangabad,MGM Hospital Aurangabad,Maharashtra,Aurangabad ,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Aster Aadhar Hospital,Near Shastri Nagar,Maharashtra,Kolhapur,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+KOKILABEN HOSPITAL 1,Four Bungalow Andheri West,Maharashtra,Mumbai,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Indraprastha Apollo Site 1,Indraprastha Apollo Hospital Mathura Rd New Delhi Delhi,Delhi,South East Delhi,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Apollo Childrens Hospital,NO. 15 SHAFEE MOHAMMED ROAD THOUSAND LIGHTS CHENNAI,Tamil Nadu,Chennai,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Cloud Nine Maternity Hospital,Siddhachal Arcade CTS Nos. 1084C And 1186A Link Road Malad (w),Maharashtra,Mumbai,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+BSEG MG HOSPITAL ANDHERI WEST,SV Road Near Andheri Railway Station Andheri West,Maharashtra,Mumbai,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Indraprastha Apollo Site 2,Indraprastha Apollo Hospital Mathura Rd New Delhi Delhi,Delhi,South East Delhi,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Indraprastha Apollo Site 3,Indraprastha Apollo Hospital Mathura Rd New Delhi Delhi,Delhi,South East Delhi,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+HOLY SPIRIT HOSPITAL 1,Mahakali Caves Rd Sher E Punjab Colony Andheri East Mumbai Maharashtra 400093,Maharashtra,Mumbai,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Apollo Clinic CVC - Tirupati,Tirupati Tirumala Family Health Care (P) Ltd 19-9-29- 2A Tiruchanur Road Sankarambadi Circle Tirupati.,Andhra Pradesh,Chittoor,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Apollo Clinic Kharadi,Floor Cool Space Oppo Reliance Mart Kharadi Pune,Maharashtra,Pune,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Cloudnine Kalyani Nagar,Hermes Waves S.No.212 1B Kalyaninagar,Maharashtra,Pune,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+ST PHILOMENA HOSPITAL BLOCK 1,CAMP BELL ROAD VIVEK NAGAR,Karnataka,BBMP,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+K D Hospital,Sardar Patel Ring Rd Ahmedabad,Gujarat,Ahmedabad Corporation,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Cims Hospital,Science City Rd Science City Panchamrut Bunglows II Sola Ahmedabad,Gujarat,Ahmedabad Corporation,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+VIKRAM HOSPITAL Covi-s,Millers Road Vasanthanagara,Karnataka,BBMP,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+ST THERESAS HOSPITAL,DR RAJ KUMAR ROAD 1ST BLOCK RAJAJINAGAR BANGALORE,Karnataka,BBMP,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+CLOUDNINE HOSPITAL-KIDS CLINIC,47 11TH MAIN 17TH CROSS MALLESHWARAM BANGALORE,Karnataka,BBMP,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+St Johns Hospital,Sarjapura Road,Karnataka,BBMP,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Fortis Escorts Hospital,Fortis Escorts Near By Neelam Bata Road Faridabad,Haryana,Faridabad,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+KIDS CLINIC INDIA PVT LTD(OAR),115 Old Airport Road Opposite Kemp Fort (Total Mall Bengaluru Karnataka 560017 115 HAL Old Airport Rd Nanja Reddy Colony Jeevan Bima Nagar,Karnataka,BBMP,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+I CZ VENUS HOSPITAL,Smt.Rasilaben Sevantilal Shah Venus Hospitalnear Laldarwaza Flyover ring Road Surat,Gujarat,Surat Corporation,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Cloudnine Horamavu,No6361 1st Floor - North Wing Cloudnine Hospital Horamavu Village K R Puram Hobli Bengaluru 560043,Karnataka,BBMP,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+CLOUDNINE WHITEFIELD P3,No.11 Survey No. 88 Whitefield Main Rd Bengaluru Karnataka,Karnataka,BBMP,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Krishna Shalby Hospital,319Green City Ghuma Via Bopal,Gujarat,Ahmedabad Corporation,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Shalby Hospital Naroda,Shalby Hosp Nr Haridarshan Cross Road Naroda,Gujarat,Ahmedabad Corporation,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Shalby Hospital S.G Highway,Opp. Karnavati Club S.G Road Ahmedabad,Gujarat,Ahmedabad Corporation,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Apollo Clinic Bellandur P3,74 1 Near Central Mall Bellandur Ring Road Bengaluru Karnataka 560103,Karnataka,BBMP,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Neighbourhood Hospitals,Neighbourhood Hospital Kothnur Main Road RBI Layout JP Nagar 7th Phase J. P. Nagar Bengaluru Karnataka India,Karnataka,BBMP,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Cloudnine Fertility- Jayanagar,No.16A 2nd And 3rd Floor 9th Main 3rd Block Jayanagar,Karnataka,BBMP,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+APOLLO CM FERTILITY -JP NAGAR,No.607 15th Cross 6th Phase JP NAGAR BANGALORE,Karnataka,BBMP,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+TrishaMultispecialityHospital,GF 5th 6th 7th Dream SquareNirnaynagar Ahmedabad,Gujarat,Ahmedabad Corporation,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Apollo Hospital-JAYANAGAR,No.21-2 14th Cross Road Near Madhavan Park Circle Jayanagar East Jayanagar Bengaluru Karnataka 560011,Karnataka,BBMP,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+LONDON CARE HOSPITAL,KUMARSWAMY LAYOUT 2ND STAGE,Karnataka,BBMP,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+SANE GURUJI AROGYA KENDRA,MALVADI HADAPSAR PUNE,Maharashtra,Pune,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Apollo Spectra Hospital Deonar,Ujagar Compound Opp. Deonar Bus Depot Main Gate Deonar Chembur Mumbai,Maharashtra,Mumbai,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+IQ City MCH,IQ City Road,West Bengal,West Bardhaman,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Apollo Clinic Thane,Z-5 Flower Valley Complex Khopat Service Rd Opp Viviana Mall Next To Car Galaxy Showroom,Maharashtra,Thane,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Fortis Hospitals Ltd,Fortis Hospitals Ltd,Punjab,Ludhiana,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Sns Pahwa Charitable Hospital,Industrial Area-Bm Gill Roadm Ludhiana 141003,Punjab,Ludhiana,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+ASIAN HOSPITALS,BHAMIA ROAD CHANDIGARH ROAD LUDHIANA,Punjab,Ludhiana,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+HERO HEART DMCH,HERO HEART INSTITUTE DMCH TAGORE NAGAR LUDHIANA,Punjab,Ludhiana,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+FORTIS ESCORT HOSPITAL,FORTIS HOSPITAL VERKA,Punjab,Amritsar,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Chawla Nursing Home,Chawla Nursing HomeChowk Basti JodhewalRahon RoadLudhiana,Punjab,Ludhiana,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Bawa Hospital,Bawa Hospital,Punjab,Ludhiana,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Verma Charitable Hospital,15 - E Tagore Nagar Ludhiana,Punjab,Ludhiana,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+DEEP HOSP,DEEP HOSP,Punjab,Ludhiana,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+DMCH College Campus,DMCH College Campus.Near Dhandi Swami Chownk,Punjab,Ludhiana,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Orison Hosp,Orison Hosp,Punjab,Ludhiana,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+CLOUDNINE HOSPITAL SHN,Axon Building Survey No 28 1 Bhamburda Shivajinagar Pune,Maharashtra,Pune,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+RELIANCE HOSPITAL NAVI MUMBAI,Thane - Belapur Road Opp. Kopar Khairane Station Next To Dhirubhai Ambani Knowledge City Navi Mumbai,Maharashtra,Thane,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+SATYAM HOSPITALS.,670 HARCHARAN NAGAR,Punjab,Ludhiana,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Cloudnine Hospital Navimumbai,Plot No 17 Phase 2 Sector 19D Vashi Navi Mumbai Maharashtra India,Maharashtra,Thane,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+MGM MEDICAL COLLEGE Kamothe,1AND 2 NAVI MUMBAI,Maharashtra,Raigad,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+APOLLO CLINIC VIMAN NAGAR,1ST FLOOR NYATI MILLENIUM SOCIETY VIMAN NAGAR,Maharashtra,Pune,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Apollo Speciality Hospitals,320  PADMA COMPLEX ANNA SALAI TEYNAMPET CHENNAI,Tamil Nadu,Chennai,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Apollo Spectra Hospitals,MRC NAGARRA PURAM,Tamil Nadu,Chennai,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Fortis Hospitals Vadapalani,Arcot Road Vadapalani,Tamil Nadu,Chennai,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Lifeline Hospital,Lifeline Hospital Panvel,Maharashtra,Raigad,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Apollo Hospital Navi Mumbai,Plot 13 Parsik Hill Rd Sector 23 CBD Belapur Navi Mumbai Maharashtra 400614,Maharashtra,Thane,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Apollo Proton COVISHIELD,Perungudi,Tamil Nadu,Chennai,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+MGM HOSPITAL NAVI MUMBAI,Plot No.35 Atmashanti Society Sector 3 Vashi Navi Mumbai Maharashtra,Maharashtra,Thane,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Apollo Clinic Vashi Navi Mumb,Apollo Clinic Plot No 195 B The Emerald Sector 12 Vashi Besides Neel Siddhi Towers Navi Mumbai Maharashtra India,Maharashtra,Thane,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Manipal Hospitall,Manipal Hospital,Rajasthan,Jaipur I,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Columbia Asia Hospital (P),Columbia Asia Hospital Patiala,Punjab,Patiala,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+SAS GREWAL,96 GURDEV NAGAR,Punjab,Ludhiana,"[{'vaccine': 'COVISHIELD', 'fee': '850'}]",COVISHIELD,850
+Aster Prime Hospital,7-1-450-20-A-1-5 Mythri Vihar MythrivanamAmeerpetHyd,Telangana,Hyderabad,"[{'vaccine': 'COVISHIELD', 'fee': '830'}]",COVISHIELD,830
+Columbia Asia Sarjapur P3,Columbia Asia Hospital -Sarjapur Road,Karnataka,BBMP,"[{'vaccine': 'COVISHIELD', 'fee': '830'}]",COVISHIELD,830
+SPS Hospital,SPS Hospital,Punjab,Ludhiana,"[{'vaccine': 'COVISHIELD', 'fee': '800'}]",COVISHIELD,800
+CMCH COVISHIELD,VELLORE,Tamil Nadu,Vellore,"[{'vaccine': 'COVISHIELD', 'fee': '800'}]",COVISHIELD,800
+Sps Omaxe Medcentre,Sps Omaxe Centre,Punjab,Ludhiana,"[{'vaccine': 'COVISHIELD', 'fee': '800'}]",COVISHIELD,800
+Barasat Cancer R And W Centre,Banamalipur Road Barasat,West Bengal,North 24 Parganas,"[{'vaccine': 'COVISHIELD', 'fee': '800'}]",COVISHIELD,800
+TeraiLions Blood Bank Siliguri,Terai Lions Blood Bank Siliguri,West Bengal,Darjeeling,"[{'vaccine': 'COVISHIELD', 'fee': '800'}]",COVISHIELD,800
+SAIFEE HOSPITAL,15-17 Maharshi Karve Road,Maharashtra,Mumbai,"[{'vaccine': 'COVISHIELD', 'fee': '800'}]",COVISHIELD,800
+SARJI HOSPITAL,Plot No 11 Ward 20 R M R Road Park Extension Shivamogga,Karnataka,Shimoga,"[{'vaccine': 'COVISHIELD', 'fee': '800'}]",COVISHIELD,800
+CHOITHRAM HOSPITAL 01,MANIK Bagh Road Indore,Madhya Pradesh,Indore,"[{'vaccine': 'COVISHIELD', 'fee': '800'}]",COVISHIELD,800
+CHOITHRAM HOSPITAL,MANIK Bagh Road Indore,Madhya Pradesh,Indore,"[{'vaccine': 'COVISHIELD', 'fee': '800'}]",COVISHIELD,800
+R. N. Tagore Hospital,Mukundapur Market Nitai Nagar Santoshpur Kolkata West Bengal 700099,West Bengal,Kolkata,"[{'vaccine': 'COVISHIELD', 'fee': '750'}]",COVISHIELD,750
+Narayana M Hospital,78 Jessore Road(South)BarasatKolkata,West Bengal,North 24 Parganas,"[{'vaccine': 'COVISHIELD', 'fee': '750'}]",COVISHIELD,750
+Brahmananda Narayana Hospital,Tamolia Chandil,Jharkhand,Seraikela Kharsawan,"[{'vaccine': 'COVISHIELD', 'fee': '750'}]",COVISHIELD,750
+GMCH Eklingpura Site- 1,Geetanjali Medical College And Hospital,Rajasthan,Udaipur,"[{'vaccine': 'COVISHIELD', 'fee': '750'}]",COVISHIELD,750
+K S HEGDE (PENTAGON PUMPWELL),PUMPWELL CIRCLE MANGALORE,Karnataka,Dakshina Kannada,"[{'vaccine': 'COVISHIELD', 'fee': '750'}]",COVISHIELD,750
+Dharamshila Narayan Hospital-1,Dharmshila Narayan HospitalVasundhra Enclave Delhi,Delhi,East Delhi,"[{'vaccine': 'COVISHIELD', 'fee': '750'}]",COVISHIELD,750
+K S Hegde Hospital,University Road Deralakatte,Karnataka,Dakshina Kannada,"[{'vaccine': 'COVISHIELD', 'fee': '750'}]",COVISHIELD,750
+Dharamshila Narayan Hospital-2,Dharamshila Narayan Hospital Vasundhra Enclave Delhi,Delhi,East Delhi,"[{'vaccine': 'COVISHIELD', 'fee': '750'}]",COVISHIELD,750
+SAHYADRI NARAYANA HRUDAYALAYA,N T ROAD HARAKERE SHIMOGA,Karnataka,Shimoga,"[{'vaccine': 'COVISHIELD', 'fee': '680'}]",COVISHIELD,680
+Narayana Multispecialty Clinic,No. 17 1 Uday House 30th Cross 8th Main Road 4th Block Jayanagar Bangalore,Karnataka,BBMP,"[{'vaccine': 'COVISHIELD', 'fee': '630'}]",COVISHIELD,630
+Narayan Medical Centre,Building No.9 Langford Road Civil Station Hosur Road,Karnataka,BBMP,"[{'vaccine': 'COVISHIELD', 'fee': '630'}]",COVISHIELD,630
+Narayana Hrudayalaya Pvt Ltd,258 A Hosur Road Anekal Taluk Bommasandra Industrial Area,Karnataka,Bangalore Urban,"[{'vaccine': 'COVISHIELD', 'fee': '630'}]",COVISHIELD,630
+Norman Tunnel Hospital 1,Moosalyngkat,Meghalaya,West Jaintia Hills,"[{'vaccine': 'COVISHIELD', 'fee': '500'}]",COVISHIELD,500
+MAX MED CENTRE MEERUT,SHOP NO 1-2 IST FLOOR S2S SQUARE MALL,Uttar Pradesh,Meerut,"[{'vaccine': 'COVISHIELD', 'fee': '300'}]",COVISHIELD,300
+APOLLO REACH COVAXIN,Apollo Reach Covaxin,Tamil Nadu,Sivaganga,"[{'vaccine': 'COVAXIN', 'fee': '250'}]",COVAXIN,250
+Baramati Hospital Pvt Ltd,INDAPUR ROAD BARAMATI 413102,Maharashtra,Pune,"[{'vaccine': 'COVISHIELD', 'fee': '250'}]",COVISHIELD,250
+The Mission Hospital,Bidhannagar,West Bengal,West Bardhaman,"[{'vaccine': 'COVISHIELD', 'fee': '250'}]",COVISHIELD,250
+CSS Health Care Covaxin,83 GT Road Bally Howrah,West Bengal,Howrah,"[{'vaccine': 'COVAXIN', 'fee': '250'}]",COVAXIN,250
+Arya Hospital Guwahati,AM Rd Opposite Apsara Cinema Manipuri Rajbari Rehabari,Assam,Kamrup Metropolitan,"[{'vaccine': 'COVISHIELD', 'fee': '250'}]",COVISHIELD,250
+SPS Hospital Sirsa,Sangwan Chownk. Sirsa,Haryana,Sirsa,"[{'vaccine': 'COVISHIELD', 'fee': '250'}]",COVISHIELD,250
+Ramzaan Hospital,Gogi Bagh,Jammu and Kashmir,Srinagar,"[{'vaccine': 'COVISHIELD', 'fee': '250'}]",COVISHIELD,250
+Navjiwan Hospital,Satbarwa Tumbagara,Jharkhand,Palamu,"[{'vaccine': 'COVISHIELD', 'fee': '250'}]",COVISHIELD,250
+Kohinoor Hospital Kurla Mumbai,Kohinoor Hospital Kohinoor City Kirol Road Off LBS Marg Kurla (West) Mumbai,Maharashtra,Mumbai,"[{'vaccine': 'COVAXIN', 'fee': '250'}]",COVAXIN,250
+SRCC Childrens Hospital,1-1 A Haji Ali Park K. Khadye Marg 400034 Mahalakshmi,Maharashtra,Mumbai,"[{'vaccine': 'COVISHIELD', 'fee': '250'}]",COVISHIELD,250
+Holy Family Hospital-1-Bandra,St Andrews Road Bandra (West),Maharashtra,Mumbai,"[{'vaccine': 'COVISHIELD', 'fee': '250'}]",COVISHIELD,250
+Sunshine Global Hospital,Nr.Shreyas VidyalayBeside ICICI BankManjalpurVadodara,Gujarat,Vadodara Corporation,"[{'vaccine': 'COVISHIELD', 'fee': '250'}]",COVISHIELD,250
+SCCL Main Hospital,Main Hospital Area Kothagudem,Telangana,Bhadradri Kothagudem,"[{'vaccine': 'COVAXIN', 'fee': '250'}]",COVAXIN,250
+Suchirayu Hospital,Suchirayu Hospital,Karnataka,Dharwad,"[{'vaccine': 'COVISHIELD', 'fee': '250'}]",COVISHIELD,250
+SCCL AH Bhupalpally,Bhupalpally,Telangana,Jayashankar Bhupalpally,"[{'vaccine': 'COVAXIN', 'fee': '250'}]",COVAXIN,250
+NWH-CVC-KIMS-PVT,KRISHNA INSTITUTE OF MEDICAL AND SCIENCES  ONGOLE,Andhra Pradesh,Prakasam,"[{'vaccine': 'COVAXIN', 'fee': '250'}]",COVAXIN,250
+Sree Sudheendra Hospital,Chittoor Rd North Kaloor Kacheripady Ernakulam Kerala,Kerala,Ernakulam,"[{'vaccine': 'COVISHIELD', 'fee': '250'}]",COVISHIELD,250
+Bedi Hospital,182 33A Sector 33 A Chandigarh,Chandigarh,Chandigarh,"[{'vaccine': 'COVISHIELD', 'fee': '250'}]",COVISHIELD,250
